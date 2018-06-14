@@ -2,46 +2,72 @@
 Prénom Nom
 URL du sujet https://frama.link/sebastienmarquet2018
 ## Exercice 1
+
 ### Q1
 les 3 gènes en cause pour le syndrome de Rett sont MeCP2 , CDKL5 , FOXG1
 justification : 
 orphanet : syndrome de Rett https://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=FR&Expert=778
+
 ### Q2
 NM_003159.2:c.194G>A et NM_003159.2:c.215T>A sont des variants dans le gène CDKL5. 
 justification  : 
 utilisation de mutalyzer donne NM_003159.2(CDKL5_v001):c.215T>A et NM_003159.2(CDKL5_v001):c.194G>A
+
 ### Q3
 Ce gène se trouve sur le chromosome X
 jusitification : USCS et OMIM
 https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A18593517%2D18593527&hgsid=228278556_5u7gFagl8czrntELAtE6ryJucbVY
 https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A18593538%2D18593548&hgsid=228278556_5u7gFagl8czrntELAtE6ryJucbVY
 https://www.omim.org/entry/312750?search=syndrome%20de%20rett&highlight=syndromic%20de%20syndrome%20rett
+
 ### Q4
 le mode de transmission dominant est lié à l'X.
 "X-linked dominant inheritance with lethality in the hemizygous males"
 "Inheritance : XLD"
 justification :
 https://www.omim.org/entry/312750?search=syndrome%20de%20rett&highlight=syndromic%20de%20syndrome%20rett
+
 ### Q5
 La transmission est dite dominante liée à l'X quand le gène muté est sur le chromosome X, et qu'une seule allèle de ce gène est suffisante pour que la maladie s'exprime (que ce soit chez l'homme ou la femme). Le X muté est transmis par le père ou la mère, et celui qui transmet est malade.
 Les hommes et les femmes peuvent être atteints, s'ils ont un chromosome X muté.
 justification : 
 https://www.orpha.net/orphaschool/formations/transmission/ExternData/InfoTransmission-Dreamweaver/Transmission.pdf
 https://www.afm-telethon.fr/transmission-genetique-dominante-liee-chromosome-x-3160
+
 ### Q6
 Le père ne transmet pas sa maladie à son fils (recevant le X de sa mère et le Y de son père) mais pour ses filles, elles hériteront du chromosome X de son père, porteur l'anomalie génétique. La fille sera malade et la maladie pourra se transmettre via son chromosome X.
 La mère transmet a un risque de 50% que l'anomalie se transmette à ses enfants, filles ou garçons. (selon si elle donne son chromosome X muté ou non)
 justification : 
 https://www.orpha.net/orphaschool/formations/transmission/ExternData/InfoTransmission-Dreamweaver/Transmission.pdf
 https://www.afm-telethon.fr/transmission-genetique-dominante-liee-chromosome-x-3160
+
 ### Q7
-pour : NM_003159.2:c.194G>A : notation protéique : NM_003159.2(CDKL5_i001):p.(Arg65Gln)
-pour : 
+pour NM_003159.2:c.194G>A la notation protéique est NM_003159.2(CDKL5_i001):p.(Arg65Gln)
+pour NM_003159.2:c.215T>A la notation protéique est NM_003159.2(CDKL5_i001):p.(Ile72Asn)
 justification :
 https://mutalyzer.nl/name-checker?description=NM_003159.2%3Ac.194G%3EA
+https://mutalyzer.nl/name-checker?description=NM_003159.2%3Ac.215T%3EA
 
 ### Q8
+pour NM_003159.2(CDKL5_i001):p.(Arg65Gln) :
+NM : mRNA_003159 : numéro correspondant au transcrit 
+.2 : Version de ce gène 
+(CDKL5_i001) : nom du gène et n° d'isoforme 
+p. : affectation au niveau de la protéine 
+(Arg65Gln) : l'Arg en position 65 est remplacée par une Gln
+
+Pour NM_003159.2(CDKL5_i001):p.(Ile72Asn) :
+NM : mRNA_003159 : numéro correspondant au transcrit 
+.2 : Version de ce gène 
+(CDKL5_i001) : nom du gène et n° d'isoforme 
+p. : affectation au niveau de la protéine 
+(Ile72Asn) : l'Ile en position 72 est remplacée par un Asn
+
 ### Q9
+pour NM_003159.2:c.194G>A
+c'est une mutation faux sens
+pour NM_003159.2:c.215T>A
+c'est une mutation faux sens
 ### Q10
 ### Q11
 ### Q12
