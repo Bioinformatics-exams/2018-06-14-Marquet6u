@@ -101,17 +101,19 @@ g. : ADN génomique
 18593543T>A susbstitution du T (référence) par un A (alternatif) en position 18593543
 
 ### Q13
-
+Je ne trouve pas ces variants dans la base de données GnomAD
 
 ### Q14
-
+la fréquence est probable faible, ces variants devant etre rares.
 
 ## Exercice 2
 
 ### Q1
 OMIM is a comprehensive, authoritative compendium of human genes and genetic phenotypes.OMIM focuses on the relationship between phenotype and genotype
+OMIM permet de faire le lien entre phénotype et génotype.
 
 "The Developmental Disorders Genotype-Phenotype Database (DDG2P) is a curated list of genes reported to be associated with developmental disorders, compiled by clinicians as part of the DDD study to facilitate clinical feedback of likely causal variants. The list is categorised into the level of certainty that the gene causes developmental disease (confirmed or probable), the consequence of a mutation (loss-of function, activating, etc) and the allelic status associated with disease (monoallelic, biallelic, etc)."
+C'est une base de données de gène en relation avec des troubles du dévelopement.
 
 ### Q2
 
