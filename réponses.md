@@ -117,6 +117,7 @@ C'est une base de données de gène en relation avec des troubles du dévelopeme
 
 ### Q2
 
+
 ### Q3
 a) NM_001190274.1 : Chaque séquence (nucléotidique ou protéique) possède un numéro unique appelé accession number
 b) HGVS : Sequence Variant Nomenclature : c'est une nomenclature pour les bases de données de variants
