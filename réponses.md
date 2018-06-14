@@ -68,10 +68,30 @@ pour NM_003159.2:c.194G>A
 c'est une mutation faux sens
 pour NM_003159.2:c.215T>A
 c'est une mutation faux sens
+justification :
+https://mutalyzer.nl/name-checker?description=NM_003159.2%3Ac.194G%3EA
+https://mutalyzer.nl/name-checker?description=NM_003159.2%3Ac.215T%3EA
+
 ### Q10
+c.194G>A : benign variant
+c.215T>A : pathogenic variant, il est probable que ce soit cette mutation qui soit responsable du syndrome de Rett chez cette patiente.
+justification : 
+http://mecp2.chw.edu.au/cdkl5/cdkl5_variant_results.php?display%5B%5D=cdna&display%5B%5D=prot&display%5B%5D=type&display%5B%5D=path&display%5B%5D=cit&display%5B%5D=snp&mutation=sys_name&m_field=c.215T%3EA&reference=authors&r_field=&mut_domain=&path_poly%5B%5D=C5&path_poly%5B%5D=C4&path_poly%5B%5D=C3&path_poly%5B%5D=C2&path_poly%5B%5D=C1&mut_type%5B%5D=MIS&mut_type%5B%5D=NON&mut_type%5B%5D=SIL&mut_type%5B%5D=INT&mut_type%5B%5D=SPL&mut_type%5B%5D=EXO&mut_type%5B%5D=FID&mut_type%5B%5D=IID&mut_type%5B%5D=5UT&mut_type%5B%5D=3UT&mut_type%5B%5D=CCR&mut_type%5B%5D=COM&mut_type%5B%5D=UNC&id=&timing=last_updated&time_int=
+
 ### Q11
+la notation génomique de ce variant est NC_000023.10:g.18593543T>A
+justification :
+https://mutalyzer.nl/position-converter?assembly_name_or_alias=GRCh37&description=NM_003159.2%3Ac.215T%3EA
+
 ### Q12
+NC : complete genomic molecules 
+000023 : chromosome X
+.10 : 10ème version du gène
+g. : ADN génomique
+18593543T>A susbstitution du T (référence) par un A (alternatif) en position 18593543
+
 ### Q13
+
 ### Q14
 ## Exercice 2
 ### Q1
