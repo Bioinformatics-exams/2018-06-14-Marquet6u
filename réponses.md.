@@ -1,1 +1,36 @@
-
+# UE génétique médicale examen 2018-06-14
+Prénom Nom
+URL du sujet https://frama.link/sebastienmarquet2018
+## Exercice 1
+### Q1
+MeCP2 (methyl-CpG-binding protein 2) localisé : Xq28, CDKL5 , FOXG1
+justification : orphanet : syndrome de Rett
+### Q2
+NM_003159.2:c.194G>A et NM_003159.2:c.215T>A sont des variants dans le gène CDKL5. 
+justification  : utilisation de mutalyzer donne NM_003159.2(CDKL5_v001):c.215T>A et NM_003159.2(CDKL5_v001):c.194G>A
+### Q3
+Ce gène se trouve sur le chromosome X
+jusitification : USCS et OMIM
+https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A18593517%2D18593527&hgsid=228278556_5u7gFagl8czrntELAtE6ryJucbVY
+https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A18593538%2D18593548&hgsid=228278556_5u7gFagl8czrntELAtE6ryJucbVY
+https://www.omim.org/entry/312750?search=syndrome%20de%20rett&highlight=syndromic%20de%20syndrome%20rett
+### Q4
+le mode de transmission est lié à l'X.
+"X-linked dominant inheritance with lethality in the hemizygous males"
+"Inheritance : XLD"
+https://www.omim.org/entry/312750?search=syndrome%20de%20rett&highlight=syndromic%20de%20syndrome%20rett
+### Q5
+### Q6
+### Q7
+### Q8
+### Q9
+### Q10
+### Q11
+### Q12
+### Q13
+### Q14
+## Exercice 2
+### Q1
+Texte de votre réponse…
+### Q2
+Texte de votre réponse…
