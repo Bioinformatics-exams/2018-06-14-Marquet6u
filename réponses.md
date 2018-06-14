@@ -140,4 +140,13 @@ Pour l'individu 2 :
 "a heterozygous de novo frameshift mutation in exon 23 was identified (chr2:g.48035302_48035303del;NM_001190274.1:c.2738_2739delAT). This variant leads to a premature stop codon at position 913."
 Le variant entre un décalage du cadre de lecture dans l'exon 23, ce qui va condurie à un codon stop prématuré en position 913, et donc à une protéine tronquée, classant ce variant comme délétère.
 
+De plus :
+"a not yet described heterozygous 6 bp duplication in ARID1A(NM_006015.4:c.489_494dupCGC CGC , p.[(A164_A165dup)], Coffin–Siris syndrome, OMIM #603024), that was maternally inherited and thus most likely benign. Thus, apart from the FBXO11variant, only sequence variations classified as likely benign or benign"
+ils on retrouvé pour l'individu 2 une duplication de 6 paires de bases dans ARID1A, qui était hérité de la mère, et qui était très probablement bénin.
+
 ### Q7
+les arguments qui font du gène un bon candidat pour la déficience intellectuelle :
+-  les individus avec une mutation de novo de ce gène ont un phénotype commun, incluant la déficience intellectuelle
+- FBXO11: des mutations faux sens et de décalage du cadre de lecture ont été trouvé dans les patients étudiés, faisant de FXBO11 un candidats intéressant pour la défcience intellectuelle : "two mutations, one missense and one frameshift variant, were found in the study by Lelieveld and  colleagues,  making FBXO11a  strongly  significant  candidate gene for ID"
+- de nombreuses mutations de ce gènes sont trouvés chez des patients présentant une déficience intellectuelle
+- "FBXO11 is another component of the ubiquitin proteasome system involved in the aetiology of ID"
